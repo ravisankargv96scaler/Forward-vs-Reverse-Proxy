@@ -1,0 +1,5 @@
+{
+  "name": "11-Forward vs Reverse Proxy Interactive Guide",
+  "description": "An interactive educational web application designed to teach the fundamental differences between Forward and Reverse Proxies through simulators, animations, and code examples.",
+  "requestFramePermissions": []
+}
